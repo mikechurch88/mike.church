@@ -1,0 +1,19 @@
+{
+  "name": "mike.church",
+  "version": "1.0.0",
+  "description": "Portfolio page for Mike Church",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikechurch88/mike.church.git"
+  },
+  "author": "Mike Church",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikechurch88/mike.church/issues"
+  },
+  "homepage": "https://github.com/mikechurch88/mike.church#readme"
+}
