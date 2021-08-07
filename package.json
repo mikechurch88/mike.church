@@ -2,6 +2,10 @@
   "name": "mike.church",
   "version": "1.0.0",
   "description": "Portfolio page for Mike Church",
+  "version": "1.0.0",
+  "engines": {
+    "node": "14.x"
+  },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
