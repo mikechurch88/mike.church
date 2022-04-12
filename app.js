@@ -1,6 +1,6 @@
 var http = require('http');
 var fs = require('fs'); // to get data from html file
- 
+const port = process.env.PORT || 3000 
 http.createServer(function (req, res) {
     res.writeHead(200, { 'Content-Type': 'text/html' });
  
